@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "minjaemong's Blog",
+  "short_name": "minjaemong's Blog",
+  "description": "예비 데이터 분석가",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",
